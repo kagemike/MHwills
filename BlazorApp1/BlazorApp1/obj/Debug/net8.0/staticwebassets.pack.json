@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "PackagePath": "staticwebassets\\BlazorApp1.styles.css"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Bow.png",
+      "PackagePath": "staticwebassets\\images\\Bow.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Charge Blade.png",
+      "PackagePath": "staticwebassets\\images\\Charge Blade.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Dual Blades.png",
+      "PackagePath": "staticwebassets\\images\\Dual Blades.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Great Sword.png",
+      "PackagePath": "staticwebassets\\images\\Great Sword.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Gunlance.png",
+      "PackagePath": "staticwebassets\\images\\Gunlance.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Heavy Bowgun.png",
+      "PackagePath": "staticwebassets\\images\\Heavy Bowgun.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Hunting Horn.png",
+      "PackagePath": "staticwebassets\\images\\Hunting Horn.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Insect Glaive_1.png",
+      "PackagePath": "staticwebassets\\images\\Insect Glaive_1.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Lance.png",
+      "PackagePath": "staticwebassets\\images\\Lance.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Light Bowgun.png",
+      "PackagePath": "staticwebassets\\images\\Light Bowgun.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Long Sword.png",
+      "PackagePath": "staticwebassets\\images\\Long Sword.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Switch Axe.png",
+      "PackagePath": "staticwebassets\\images\\Switch Axe.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\Sword & Shield.png",
+      "PackagePath": "staticwebassets\\images\\Sword & Shield.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\images\\hammer.png",
+      "PackagePath": "staticwebassets\\images\\hammer.png"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\C#\\BlazorApp1\\BlazorApp1\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp1.props",
+      "PackagePath": "build\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp1.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp1.props",
+      "PackagePath": "buildTransitive\\BlazorApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
